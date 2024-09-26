@@ -112,7 +112,7 @@ function App() {
   return (
     <div className="Container bg-purple-200 w-full h-screen">
       <Navbar />
-      <div className="todoContainer w-full my-11 bg-purple-200 sm:bg-gray-100 rounded-lg xl:w-[38%] lg:w-[72%] md:w-[90%] m-auto min-h-[70vh] px-3 py-2 flex flex-col gap-2">
+      <div className="todoContainer w-full my-7 bg-purple-200 sm:bg-gray-100 rounded-lg xl:w-[38%] lg:w-[72%] md:w-[90%] m-auto min-h-[70vh] px-3 py-2 flex flex-col gap-2">
         <h1 className="text-center text-lg font-extrabold sm:text-2xl sm:font-semibold">
           iTask - Manage your task at one place
         </h1>
